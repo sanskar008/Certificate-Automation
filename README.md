@@ -1,8 +1,8 @@
-Certificate Automation
-----------------------------------------------------------------------------
+# Certificate Automation Project
 
-Project Overview:
-- Automates the creation of professional certificates.
+## Project Overview
+
+- Automates the creation of professional certificates for events, workshops, or courses.
 - Reads participant details (name, course, date, certificate ID) from an Excel file.
 - Uses a custom-designed PDF template with a logo and decorative elements.
 - Places each participant's information onto the template at the correct positions.
