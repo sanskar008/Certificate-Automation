@@ -82,7 +82,7 @@ c.drawCentredString(
 c.setFont("Helvetica", 14)
 c.drawString(100, 120, "Date: ")
 
-# Add signature line
+# Add signature 
 c.setStrokeColor(black)
 c.setLineWidth(1)
 c.line(width - 200, 100, width - 80, 100)
