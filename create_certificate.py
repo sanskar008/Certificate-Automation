@@ -90,4 +90,4 @@ c.setFont("Helvetica", 12)
 c.drawCentredString(width - 140, 85, "Authorized Signature")
 
 c.save()
-print("✅ Created enhanced template.pdf")
+print("Created template.pdf")
